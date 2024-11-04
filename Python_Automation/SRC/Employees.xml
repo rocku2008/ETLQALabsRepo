@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<employees><employee><id>1</id><name>John Doe</name><department>Sales</department><salary>50000</salary></employee><employee><id>2</id><name>Jane Smith</name><department>Marketing</department><salary>60000</salary></employee><employee><id>3</id><name>Sam Johnson</name><department>Finance</department><salary>70000</salary></employee></employees>
